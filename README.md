@@ -132,4 +132,17 @@ Le résultat :
 ![image](https://user-images.githubusercontent.com/4341904/204917411-325d4028-6f86-4f02-94e6-8fe4c33297eb.png)
 
 Partie 3 : client Angular
-BillingRestController pour s
+
+Produits
+
+![image](https://user-images.githubusercontent.com/4341904/206039618-f952b340-33b7-42c4-9bd7-6d407f27485f.png)
+
+Clients
+
+![image](https://user-images.githubusercontent.com/4341904/206039695-92302b2e-7dbb-4df3-a8f2-9f59399a4089.png)
+
+Factures
+
+![image](https://user-images.githubusercontent.com/4341904/206039829-5c5028c9-0536-460c-9219-e5255cdd324d.png)
+
+

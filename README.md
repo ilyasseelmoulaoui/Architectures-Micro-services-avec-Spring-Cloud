@@ -1,3 +1,5 @@
+# Travail à faire
+
 ![image](https://user-images.githubusercontent.com/4341904/204916469-25944c91-83ee-49d1-a164-d5a297a7cfb9.png)
 
 ![image](https://user-images.githubusercontent.com/4341904/204916527-d005d75c-3ca0-4a74-abb3-c618ea9d5bac.png)
@@ -131,7 +133,7 @@ Le résultat :
 
 ![image](https://user-images.githubusercontent.com/4341904/204917411-325d4028-6f86-4f02-94e6-8fe4c33297eb.png)
 
-Partie 3 : client Angular
+# Partie 3 : client Angular
 
 Produits
 

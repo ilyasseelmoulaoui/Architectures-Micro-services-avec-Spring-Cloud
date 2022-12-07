@@ -21,6 +21,7 @@
 7. Créer un client Angular qui permet d'afficher une facture
 
 **Architecture micro-services**
+
 ![image](https://user-images.githubusercontent.com/4341904/204916527-d005d75c-3ca0-4a74-abb3-c618ea9d5bac.png)
 
 ## Pour customer-service

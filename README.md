@@ -1,4 +1,6 @@
-# Travail à faire :
+# Activité pratique 3 : Architecture Micro-services avec Spring Cloud
+
+## Travail à faire :
 
 ![image](https://user-images.githubusercontent.com/4341904/204916469-25944c91-83ee-49d1-a164-d5a297a7cfb9.png)
 
@@ -25,7 +27,7 @@ H2-console
 ![image](https://user-images.githubusercontent.com/4341904/204916667-9a967315-16d7-4dd0-b8ea-99acc4b21830.png)
 
 ## Pour le service GateWay
-# Pour le service GateWay
+
 Créer un fichier application.yml dans ressources
 
 ![image](https://user-images.githubusercontent.com/4341904/204916714-6f05e4ed-56b0-4d22-942b-769d009eae33.png)

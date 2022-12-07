@@ -6,23 +6,23 @@
 
 ![image](https://user-images.githubusercontent.com/4341904/204916527-d005d75c-3ca0-4a74-abb3-c618ea9d5bac.png)
 
-Pour customer-service
+## Pour customer-service
 
 ![image](https://user-images.githubusercontent.com/4341904/204916558-2c795ce7-a652-4670-928c-0ddb57d6bba9.png)
 
-Actuator
+### Actuator
 
 ![image](https://user-images.githubusercontent.com/4341904/204916572-bed1d4ce-73b9-4bed-a84f-c34fc4e7f7bf.png) 
 
-H2 console
+### H2 console
 
 ![image](https://user-images.githubusercontent.com/4341904/204916600-9b472e2d-7a28-49e3-8c60-e7e73d95aa8f.png)
 
-Pour Inventory-service
+## Pour Inventory-service
 
 ![image](https://user-images.githubusercontent.com/4341904/204916619-e160f627-abed-4d1c-9eb1-de3e1ef006b4.png)
 
-H2-console
+### H2-console
 
 ![image](https://user-images.githubusercontent.com/4341904/204916667-9a967315-16d7-4dd0-b8ea-99acc4b21830.png)
 

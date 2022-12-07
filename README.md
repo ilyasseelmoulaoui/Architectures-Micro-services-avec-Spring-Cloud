@@ -20,8 +20,6 @@
 6. Créer Le service Billing-Service en utilisant Open Feign pour communiquer avec les services Customer-service et Inventory-service 7. Créer un client Angular qui permet d'afficher une facture
 7. Créer un client Angular qui permet d'afficher une facture
 
-![image](https://user-images.githubusercontent.com/4341904/204916469-25944c91-83ee-49d1-a164-d5a297a7cfb9.png)
-
 ![image](https://user-images.githubusercontent.com/4341904/204916527-d005d75c-3ca0-4a74-abb3-c618ea9d5bac.png)
 
 ## Pour customer-service

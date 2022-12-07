@@ -66,7 +66,7 @@ Dans Inventory-service et Customer-service et Gateway-service on change false à
 
 ![image](https://user-images.githubusercontent.com/4341904/204916971-b94f78af-2b74-4758-99c6-328140b9808e.png)
 
-Dans Gateway-service
+## Dans Gateway-service
 
 ![image](https://user-images.githubusercontent.com/4341904/204916994-2dc6fde2-c0b9-40bc-8440-9681d0a4b77b.png)
  
@@ -87,7 +87,7 @@ Maintenant, on peut atteindre notre micro-service par l’url mais on doit ajout
 
 S’il y a plusieurs instances de même micro-service le Gateway utilise le principe de l’équilibrage de charge ; le spring cloud gateway utilise un service spring cloud qui s’appelle Ribon, qui est un service d’équilibrage de charge, on n’a pas l’exploiter explicitement mais il est utilisé implicitement, mais on peut le configurer nous-même.
 
-Pour Billing-service
+## Pour Billing-service
 
 ![image](https://user-images.githubusercontent.com/4341904/204917151-92bad852-6311-454b-bbb0-0c35b79ea178.png)
  
@@ -115,7 +115,7 @@ Le problème est résolu
 
 Mais sans le nom du produit et les informations sur le client sauf son ID, pour cela on va essayer de les récupérer.
 
-Dans BillingRestController 
+### Dans BillingRestController 
 
 ![image](https://user-images.githubusercontent.com/4341904/204917309-dc9ce7ad-4b35-4858-9c68-5b4bf1333987.png)
 
@@ -138,15 +138,15 @@ Le résultat :
 
 # Partie 3 : client Angular
 
-Produits
+### Produits
 
 ![image](https://user-images.githubusercontent.com/4341904/206039618-f952b340-33b7-42c4-9bd7-6d407f27485f.png)
 
-Clients
+### Clients
 
 ![image](https://user-images.githubusercontent.com/4341904/206039695-92302b2e-7dbb-4df3-a8f2-9f59399a4089.png)
 
-Factures
+### Factures
 
 ![image](https://user-images.githubusercontent.com/4341904/206039829-5c5028c9-0536-460c-9219-e5255cdd324d.png)
 

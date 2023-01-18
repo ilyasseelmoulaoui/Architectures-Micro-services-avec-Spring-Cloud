@@ -172,8 +172,7 @@ Le résultat :
 ![image](https://user-images.githubusercontent.com/4341904/213055986-8694ed66-e33c-432c-b47b-59789182b09e.png)
 
 ### Realtime ordering - bills analysis
-![image](https://user-images.githubusercontent.com/4341904/213056605-9c4932da-c6dd-48ad-b86a-65374befb757.png)
-
+![analytics](https://user-images.githubusercontent.com/4341904/213058157-ebfa05da-40d4-4601-ae8a-210036758ce9.gif)
 
 
 

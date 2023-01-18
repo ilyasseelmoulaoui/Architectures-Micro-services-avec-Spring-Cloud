@@ -167,9 +167,9 @@ Le résultat :
 ### Ordres de client
 ![image](https://user-images.githubusercontent.com/4341904/213055802-e8b5aec8-6904-4cff-bc0b-f7248e8253dd.png)
 
-### Factures
+### Facture
 
-![image](https://user-images.githubusercontent.com/4341904/206039829-5c5028c9-0536-460c-9219-e5255cdd324d.png)
+![image](https://user-images.githubusercontent.com/4341904/213055986-8694ed66-e33c-432c-b47b-59789182b09e.png)
 
 
 

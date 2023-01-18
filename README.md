@@ -157,16 +157,32 @@ Le résultat :
 # Partie 3 : client Angular
 
 ### Produits
-
-![image](https://user-images.githubusercontent.com/4341904/206039618-f952b340-33b7-42c4-9bd7-6d407f27485f.png)
+![image](https://user-images.githubusercontent.com/4341904/213055465-13d6e947-c42b-4eb3-9110-c973aff2c4bf.png)
 
 ### Clients
 
-![image](https://user-images.githubusercontent.com/4341904/206039695-92302b2e-7dbb-4df3-a8f2-9f59399a4089.png)
+![image](https://user-images.githubusercontent.com/4341904/213055611-59b74713-9e1a-451c-b08f-5ad4c73b2882.png)
+
+
+### Ordres de client
+![image](https://user-images.githubusercontent.com/4341904/213055802-e8b5aec8-6904-4cff-bc0b-f7248e8253dd.png)
 
 ### Factures
 
 ![image](https://user-images.githubusercontent.com/4341904/206039829-5c5028c9-0536-460c-9219-e5255cdd324d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________________________________
 
 # Keycloak
 

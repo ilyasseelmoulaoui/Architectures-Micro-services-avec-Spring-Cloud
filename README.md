@@ -179,9 +179,5 @@ Le résultat :
 ### Realtime ordering - bills analysis
 ![analytics](https://user-images.githubusercontent.com/4341904/213058157-ebfa05da-40d4-4601-ae8a-210036758ce9.gif)
 
-
-
-
-
-__________________________________________________________________________________________________________________
-
+#Docker
+![image](https://user-images.githubusercontent.com/4341904/219878029-118bf344-aa03-43f0-a45c-48438c28cd50.png)

@@ -155,6 +155,8 @@ Le résultat :
 ![image](https://user-images.githubusercontent.com/4341904/204917411-325d4028-6f86-4f02-94e6-8fe4c33297eb.png)
 
 # Partie 3 : client Angular
+## Keycloak
+![image](https://user-images.githubusercontent.com/4341904/219871923-930ebaec-b135-4d64-9ee9-fb2c920c1eb1.png)
 
 ### Produits
 ![image](https://user-images.githubusercontent.com/4341904/213055465-13d6e947-c42b-4eb3-9110-c973aff2c4bf.png)
@@ -179,12 +181,4 @@ Le résultat :
 
 
 __________________________________________________________________________________________________________________
-
-# Keycloak
-
-![image](https://user-images.githubusercontent.com/4341904/211162619-4f492f6e-eb58-4a44-9c98-5516ea869a7c.png)
-
-## refresh token
-
-![image](https://user-images.githubusercontent.com/4341904/211163152-8675ebaf-b4d3-42ad-b220-4b78defacc52.png)
 
